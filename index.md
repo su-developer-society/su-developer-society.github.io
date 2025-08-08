@@ -1,2 +1,3 @@
-# Welcome to the SU Computer Club
-Hello world!
+Hello and welcome to the Stellenbosch University Computer Club!
+
+Check out our [events](/events/)
