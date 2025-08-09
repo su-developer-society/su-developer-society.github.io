@@ -1,7 +1,7 @@
 # Upcoming Events
 
 **2025-08-12** — Discuss past and future personal projects.  
-Join us at 19:00 at the [Victory Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9)
+Join us at 19:00 at the [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9)
 to share any personal project you have been part of - hardware of software. You
 can also discuss future projects you would like to work on, and maybe find
 someone who's keen to tackle the project with you. 👩‍💻🧑‍💻
