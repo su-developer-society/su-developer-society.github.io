@@ -9,7 +9,7 @@ someone who's keen to tackle the project with you. 👩‍💻🧑‍💻
 This is the first event of this club. Please feel free to swing by and tell us
 what the Computer Club could do for you!
 
-**2025-08-19** — Student lead talk: Make a personal website using GitHub Pages
+**2025-08-19** — Student lead talk: Make a personal website using GitHub Pages  
 Willie Loftie-Eaton will give a talk on how you can create a simple personal
 website using GitHub Pages.  
 Time: TBD  
