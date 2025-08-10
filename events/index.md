@@ -9,9 +9,16 @@ someone who's keen to tackle the project with you. 👩‍💻🧑‍💻
 This is the first event of this club. Please feel free to swing by and tell us
 what the Computer Club could do for you!
 
+**2025-08-26** — Student lead talk: What is a turing machine?  
+Willie Loftie-Eaton will explain what a turing machine is, and whether you
+should care :)
+
 # Events that are still compiling:
 
 - Vibe coding hackathon
 - Movie night
 - Quiz night
 - Talks from industry or lecturers
+- Student lead talk: How to customize Vim
+- Student lead talk: How to customize bash
+- Student lead talk: What is a neural network?
