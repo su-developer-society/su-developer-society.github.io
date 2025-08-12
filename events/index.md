@@ -7,7 +7,7 @@ can also discuss future projects you would like to work on, and maybe find
 someone who's keen to tackle the project with you. 👩‍💻🧑‍💻
 
 This is the first event of this club. Please feel free to swing by and tell us
-what the Computer Club could do for you!
+what the Developer Society could do for you!
 
 **2025-08-19** — Student lead talk: Make a personal website using GitHub Pages  
 Willie Loftie-Eaton will give a talk on how you can create a simple personal

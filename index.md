@@ -1,4 +1,4 @@
-**Welcome to the Stellebbosch University Computer Club**
+**Welcome to the Stellebbosch University Developer Society**
 
 We want to create a place that is exciting for people interested in computer
 science and electronics, work on projects together, and build relationships that
