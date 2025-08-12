@@ -12,7 +12,7 @@ these things - you can be part of making a community for people like you.
 __Events & Activities__: Events we would like to host include:
 * Discussions of projects we have worked on.
 * Tackling projects we would like to work on together.
-* Hackatons
+* Hackathons
 * Quiz nights
 * Talks from professors or people from industry
 * Movie nights
