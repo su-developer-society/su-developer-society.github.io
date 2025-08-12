@@ -17,7 +17,7 @@ Venue: TBD
 
 **2025-08-26** — Student lead talk: What is a Turing machine?  
 Willie Loftie-Eaton will explain what a turing machine is, and whether you
-should care :)
+should care :)  
 Time: TBD  
 Venue: TBD  
 
