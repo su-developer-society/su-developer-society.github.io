@@ -23,3 +23,4 @@ __Community goals__: The most important thing is that people should build
 relationships in the society that last past university. This can be done
 alongside learning and creating projects together. Organising talks from
 industry people would also be good for networking.
+
