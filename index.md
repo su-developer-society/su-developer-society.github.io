@@ -19,8 +19,6 @@ __Events & Activities__: Events we would like to host include:
 
 Check out our [events](/events/) page to see what's happening when.
 
-__Community goals__: The most important thing is that people should build
-relationships in the society that last past university. This can be done
-alongside learning and creating projects together. Organising talks from
-industry people would also be good for networking.
-
+If you have any questions or suggestions, please contact Willie Loftie-Eaton :)  
+[willieloea@gmail.com](mailto:willieloea@gmail.com)  
+[+27 71 494 3857](tel:+27714943857)  
