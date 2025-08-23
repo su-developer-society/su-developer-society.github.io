@@ -19,6 +19,9 @@ __Events & Activities__: Events we would like to host include:
 
 Check out our [events](/events/) page to see what's happening when.
 
+Check out our [projects](/projects/) page to see what projects members are
+working on.
+
 If you have any questions or suggestions, please contact Willie Loftie-Eaton :)  
 [willieloea@gmail.com](mailto:willieloea@gmail.com)  
 [+27 71 494 3857](tel:+27714943857)  
