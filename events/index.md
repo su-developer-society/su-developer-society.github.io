@@ -1,18 +1,7 @@
 # Upcoming Events
 
-**2025-08-25** - Student lead talk: What is a Turing machine?  
-Willie Loftie-Eaton will explain what a turing machine is, and whether you
-should care :)  
-Time: 19:00  
-Venue: [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9) Boardroom  
-
-**2025-08-26** - External talk: Chris Abrahm on EV Fleet  
-EV Fleet is a software startup and consultancy dedicated to accelerating the
-transition of vehicle fleets, including public transport and minibus taxis, to
-electric mobility. This talk will introduce Chris's company, and will be an
-opportunity for him to look for people to join his business to build a SaaS.  
-Time: 15:00-17:00  
-Venue: Media Lab, Engineering building  
+None at the moment - exams are approaching. We will resume activities after
+recess.
 
 # Events that are still compiling:
 
@@ -39,3 +28,17 @@ Willie Loftie-Eaton will give a talk on how you can create a simple personal
 website using GitHub Pages.  
 Time: 19:00  
 Venue: [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9)  
+
+**2025-08-25** - Student lead talk: What is a Turing machine?  
+Willie Loftie-Eaton will explain what a turing machine is, and whether you
+should care :)  
+Time: 19:00  
+Venue: [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9) Boardroom  
+
+**2025-08-26** - External talk: Chris Abrahm on EV Fleet  
+EV Fleet is a software startup and consultancy dedicated to accelerating the
+transition of vehicle fleets, including public transport and minibus taxis, to
+electric mobility. This talk will introduce Chris's company, and will be an
+opportunity for him to look for people to join his business to build a SaaS.  
+Time: 15:00-17:00  
+Venue: Media Lab, Engineering building  
