@@ -1,11 +1,11 @@
 # Upcoming Events
 
-None at the moment - exams are approaching. We will resume activities after
-recess.
+**2025-10-03** till **2025-10-05** - First ever SUDS Hackathon!  
+The hackathon is still being organized (venue & sponsors) but keep this weekend
+open so long ;)
 
 # Events that are still compiling:
 
-- Vibe coding hackathon
 - Movie night
 - Quiz night
 - Talks from industry or lecturers
