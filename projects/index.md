@@ -5,5 +5,6 @@ here, contact the [admins](https://github.com/orgs/su-developer-society/teams/ad
 of the developer society's GitHub organization.
 
 # Active projects
-## [MyTTS](https://github.com/willieloea/MyTTS)
-The goal of this project is to enable people to setup their own TTS app.
+## [2025 Inter-Varsity Hackathon](https://github.com/su-developer-society/2025-inter-varsity-hackathon)
+The hackathon is taking place on 13-14 September - watch this space to see what
+we will build.
