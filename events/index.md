@@ -42,3 +42,10 @@ electric mobility. This talk will introduce Chris's company, and will be an
 opportunity for him to look for people to join his business to build a SaaS.  
 Time: 15:00-17:00  
 Venue: Media Lab, Engineering building  
+
+**2025-09-26** - Student lead talk: How to hack
+Veer Gosai will give a talk on how to discover and exploit vulnerabilities on
+websites.
+Time: 13:30
+Venue: Room 1005, Mathematical Sciences and Industrial Psychology Building
+
