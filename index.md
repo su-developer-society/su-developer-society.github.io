@@ -1,15 +1,21 @@
-**Welcome to the Stellebosch University Developer Society**
+**Welcome to the Stellenbosch University Developer Society**
 
 We want to create a place that is exciting for people interested in computer
 science and electronics, work on projects together, and build relationships that
 will last past university.
 
-__The heart of it__: If you have looked for a place to share things the rest of
-the world doesn't find interesting (your OS, your Vim setup, a personal project,
-esoteric math, etc.), or a place to hear from others who are also interested in
-these things - you can be part of making a community for people like you.
+The goals of the developer society are to create a community where members:
+ - explore technology
+ - build friendships
+ - build projects
+ - build relationships with people in industry.
 
-__Events & Activities__: Events we would like to host include:
+If you have looked for a place to share things the rest of the world doesn't
+find interesting (your OS, your Vim setup, a personal project, esoteric math,
+etc.), or a place to hear from others who are also interested in these things -
+you can be part of making a community for people like you.
+
+__Events & Activities__: Events we host include:
 * Discussions of projects we have worked on.
 * Tackling projects we would like to work on together.
 * Hackathons
@@ -18,9 +24,6 @@ __Events & Activities__: Events we would like to host include:
 * Movie nights
 
 Check out our [events](/events/) page to see what's happening when.
-
-Check out our [projects](/projects/) page to see what projects members are
-working on.
 
 If you have any questions or suggestions, please contact Willie Loftie-Eaton :)  
 [willieloea@gmail.com](mailto:willieloea@gmail.com)  

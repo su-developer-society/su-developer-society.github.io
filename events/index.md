@@ -1,8 +1,9 @@
 # Upcoming Events
 
-**2025-10-03** till **2025-10-05** - First ever SUDS Hackathon!  
-The hackathon is still being organized (venue & sponsors) but keep this weekend
-open so long ;)
+**2025-10-08** — SUDS Founding meeting.  
+Join us at 17:30 for the founding of the developer society! Members will get a
+chance to meet each other, learn more about the society, and elect those who
+will hold leadership positions in the society in 2026.
 
 # Events that are still compiling:
 
@@ -30,7 +31,7 @@ Time: 19:00
 Venue: [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9)  
 
 **2025-08-25** - Student lead talk: What is a Turing machine?  
-Willie Loftie-Eaton will explain what a turing machine is, and whether you
+Willie Loftie-Eaton will explain what a Turing machine is, and whether you
 should care :)  
 Time: 19:00  
 Venue: [Victoria Hub](https://maps.app.goo.gl/BH77VmJLkfFG1Bjo9) Boardroom  
@@ -49,3 +50,11 @@ websites.
 Time: 13:30
 Venue: Room 1005, Mathematical Sciences and Industrial Psychology Building
 
+**2025-10-03** till **2025-10-05** - First ever SUDS Hackathon!  
+SUDS hosted it's first ever hackathon with the theme: "Build something that
+improves student life." The hackathon was sponsored by [Skynamo](https://skynamo.com/)
+to whom we are very grateful. Participants ranked in the following order:
+1. Dylan Reid, Dylan Swarts
+2. Katlego Tsotetsi, Scelo Siyabonga Nkosi, Thapelo Moloantoa
+3. Pontsho Magane
+4. Isaiah Joshua Daries
